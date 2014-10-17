@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pib:home|Door43 (pib)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pib|d43-pib repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pib/archive/master.zip|d43-pib.zip]]
+
+**Recent Changes**
+{{changes>ns = pib}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pib|Ethnologue data]]
+
